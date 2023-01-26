@@ -2,16 +2,16 @@
 
   # hi
 
-  ![badge](https://img.shields.io/badge/license-MIT-blue)<br />
-
+  ![badge](https://img.shields.io/badge/license-MIT-blue)
+  
   ## Table of Contents:
-    * [Description](#description)
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions) 
 
   ## Description
   hi
@@ -26,7 +26,7 @@
   This application is covered by the MIT license.
 
   ## Contributing
-  
+  hi
 
   ## Tests
   hi
