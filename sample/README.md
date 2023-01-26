@@ -17,10 +17,10 @@
   This application generates a readme.md file using the command line and user's input.
 
   ## Installation
-  Initialize by running `npm init -y`. Install inquirer and add to list of dependencies by running  `npm i inquirer@8.2.4` 
+  Initialize by running `npm init -y`. Install inquirer and add to list of dependencies by running `npm i inquirer@8.2.4`.
 
   ## Usage
-  This application will be invoked by using the following command: `node index.js`.
+  This applicaiton will be invoked by using the following command: `node index.js`.
 
   ## License
   This application is covered by the MIT license.

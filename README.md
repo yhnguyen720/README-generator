@@ -67,7 +67,7 @@ See the README.md file in the sample folder for an example of a generated readme
 
 [Video Link](https://drive.google.com/file/d/1K_KRsrEw6pNNgyqj7faADdx7FL3NaXzj/view)
 
-generated README raw       |  generated README preview
+command line applicaiton   |  generated README preview
 :-------------------------:|:-------------------------:
 ![](./assets/sample1.PNG)  |  ![](./assets/sample2.PNG)
 
