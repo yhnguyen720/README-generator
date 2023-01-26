@@ -1,6 +1,6 @@
 
 
-  # hi
+  # ReadMe Generator
 
   ![badge](https://img.shields.io/badge/license-MIT-blue)
   
@@ -14,23 +14,23 @@
   * [Questions](#questions) 
 
   ## Description
-  hi
+  App will generate readme.md file based on user's input.
 
   ## Installation
-  hi
+  inquirer is required
 
   ## Usage
-  hi
+  
 
   ## License
   This application is covered by the MIT license.
 
   ## Contributing
-  hi
+  yen nguyen
 
   ## Tests
-  hi
+  none
 
   ## Questions
-  Find me on GitHub: [hi](https://github.com/hi)<br />
-  Email me with any questions: hi<br /><br />
+  Find me on GitHub: [yhnguyen720](https://github.com/yhnguyen720)<br />
+  Email me with any questions: yhnguyen720@gmail.com<br /><br />
