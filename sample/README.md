@@ -1,6 +1,6 @@
 
 
-  # ReadMe Generator
+  # README generator
 
   ![badge](https://img.shields.io/badge/license-MIT-blue)
   
@@ -14,22 +14,22 @@
   * [Questions](#questions) 
 
   ## Description
-  App will generate readme.md file based on user's input.
+  This application generates a readme.md file using the command line and user's input.
 
   ## Installation
-  inquirer is required
+  Initialize by running `npm init -y`. Install inquirer and add to list of dependencies by running  `npm i inquirer@8.2.4` 
 
   ## Usage
-  
+  This application will be invoked by using the following command: `node index.js`.
 
   ## License
   This application is covered by the MIT license.
 
   ## Contributing
-  yen nguyen
+  Yen Nguyen
 
   ## Tests
-  none
+  n/a
 
   ## Questions
   Find me on GitHub: [yhnguyen720](https://github.com/yhnguyen720)<br />

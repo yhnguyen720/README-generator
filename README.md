@@ -63,10 +63,13 @@ Answer the prompted questions to generate the README file based on your input.
 
 ## Demonstration 
 
-[Video Link](https://drive.google.com/file/d/1K_KRsrEw6pNNgyqj7faADdx7FL3NaXzj/view)
-
 See the README.md file in the sample folder for an example of a generated readme file. 
 
+[Video Link](https://drive.google.com/file/d/1K_KRsrEw6pNNgyqj7faADdx7FL3NaXzj/view)
+
+generated README raw       |  generated README preview
+:-------------------------:|:-------------------------:
+![](./assets/sample1.PNG)  |  ![](./assets/sample2.PNG)
 
 ## Contributing
 
